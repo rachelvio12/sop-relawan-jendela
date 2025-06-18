@@ -27,3 +27,8 @@ Relawan diharapkan:
 ## 📌 Kontak
 
 Untuk pertanyaan lebih lanjut, silakan hubungi koordinator relawan atau melalui GitHub Issues.
+
+## 📸 Dokumentasi Kegiatan
+
+![Foto kegiatan lapangan Jendela Jakarta](https://github.com/rachelvio12/sop-relawan-jendela/blob/main/assets/WhatsApp%20Image%202025-06-17%20at%2020.45.30.jpeg?raw=true)
+

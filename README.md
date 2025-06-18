@@ -21,7 +21,7 @@ Relawan diharapkan:
 
 ## 📋 Tautan Terkait
 
-- [Form Kehadiran Relawan]([https://example.com](https://bit.ly/AbsensiKelasRegulerJenjak))
+- [Form Kehadiran Relawan]([https://bit.ly/AbsensiKelasRegulerJenjak])
 - [Dokumen SOP Kegiatan Harian](./SOP-kegiatan-relawan.md)
 
 ## 📌 Kontak
